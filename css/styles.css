@@ -1,0 +1,14 @@
+body {
+  background-color: #eff3c6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;}
+
+  h1{color: #588da8}
+  h3{color: #588da8}
+  p{font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;}
